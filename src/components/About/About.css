@@ -1,0 +1,21 @@
+.AboutUs {
+    height: 620px;
+}
+
+.biznesPhoto {
+    width: 422px;
+    height: 315px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.most {
+    text-align: start;
+}
+
+@media (max-width: 768px) {
+    .most {
+        text-align: center;
+        margin-top: 20px;
+    }
+}

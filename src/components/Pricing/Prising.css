@@ -1,0 +1,24 @@
+.organize {
+    width: 300px;
+    margin: 40px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.Picing {
+    height: 824px;
+    margin-top: 100px;
+}
+
+li {
+    list-style-type: none;
+}
+
+button {
+    background-color: rgb(71, 71, 236);
+    color: white;
+    border-radius: 8px;
+    border: 1px solid rgb(71, 71, 236);
+    padding: 5px 15px;
+    margin: 10px;
+}
